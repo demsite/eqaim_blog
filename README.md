@@ -58,7 +58,7 @@ Deliverables:
  <img alt="desktop home page" src="https://i.imgur.com/4Y2uwh8.png" width="534" height="300" />
  <img alt="desktop post detail" src="https://i.imgur.com/hHdJBFb.png" width="534" height="300" />
  <img alt="desktop post new" src="https://i.imgur.com/nfS3Rj3.png" width="534" height="300" />
- <img alt="mobile home page" src="https://i.imgur.com/bE4uIvX.png" width="534" height="300" />
- <img alt="mobile post detail" src="https://i.imgur.com/TAoJ7YF.png" width="534" height="300" />
- <img alt="mobile post new" src="https://i.imgur.com/6ufDqs1.png" width="534" height="300" /> 
+ <img alt="mobile home page" src="https://i.imgur.com/bE4uIvX.png"  height="300" />
+ <img alt="mobile post detail" src="https://i.imgur.com/TAoJ7YF.png" height="300" />
+ <img alt="mobile post new" src="https://i.imgur.com/6ufDqs1.png" height="300" /> 
 </p>
