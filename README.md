@@ -1,10 +1,8 @@
-## Project Name & Pitch
+## Eqaim Blog
 
-#### Example:
+Built with MERN stack
 
-Eqaim Blog 
-
-Prepared by Jozbiz Technologies as sample solution to the problem statement provided by Eqaim
+Prepared by Jozbiz as sample solution to the problem statement provided by Eqaim
 
 
 ## Installation and Setup Instructions
