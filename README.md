@@ -56,7 +56,9 @@ Deliverables:
 <p align="center">
 
  <img alt="desktop home page" src="https://i.imgur.com/4Y2uwh8.png" width="534" />
+ <br/>
  <img alt="desktop post detail" src="https://i.imgur.com/hHdJBFb.png" width="534" />
+ <br/>
  <img alt="desktop post new" src="https://i.imgur.com/nfS3Rj3.png" width="534" />
  <br/>
  <img alt="mobile home page" src="https://i.imgur.com/bE4uIvX.png"  height="300" />
